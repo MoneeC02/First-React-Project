@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+body {
+    background-image: url('/NavBackImage.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+  }
+  
