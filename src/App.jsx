@@ -9,6 +9,7 @@ import Donate from "./Page/Donate"
 import SpreadTheWorld from "./Page/SpreadTheWorld";
 import ContactUs from "./Page/ContactUs";
 
+
 function App() {
   return (
     <div className="relative bg-hero-pattern bg-cover bg-center bg-no-repeat min-h-screen">
